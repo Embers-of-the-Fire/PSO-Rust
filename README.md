@@ -7,10 +7,6 @@
 <a href="https://crates.io/crates/pso_rust"><img alt="crates" src="https://img.shields.io/badge/crates.io-pso_rust-d7611b"/></a>
 </p>
 
-```bash
-cargo install pso_rust
-```
-
 ## What's this?
 
 This is a rust library focus on the PSO method, or Particle Swarm Optimizer.
